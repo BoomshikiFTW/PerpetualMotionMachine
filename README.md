@@ -1,3 +1,3 @@
 # PerpetualMotionMachine
 
-New stuff
+A repo used for demoing the use of the GitHub API
